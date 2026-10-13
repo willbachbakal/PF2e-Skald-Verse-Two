@@ -1,6 +1,6 @@
 {
-  "id": "",
-  "title": "",
+  "id": "skald-verse-two",
+  "title": "Skald Verse Two",
   "version": "#{VERSION}#",
   "library": "false",
   "compatibility": {
@@ -20,7 +20,7 @@
       }
     }
   },
-  "description": "",
+  "description": "An updated take on the Skald class archetype for Pathfinder Second Edition's Bard class, rebuilding them around two-slot spellcasting.",
   "authors": [
     {
       "name": "Teridax68",
@@ -29,9 +29,9 @@
   ],
   "packs": [
     {
-      "name": "",
-      "label": "",
-      "path": "packs/",
+      "name": "skald-verse-two",
+      "label": "Skald Verse Two",
+      "path": "packs/skald-verse-two",
       "type": "Item",
       "system": "pf2e",
       "flags": {}
@@ -44,5 +44,5 @@
   "manifest": "#{MANIFEST}#",
   "download": "#{DOWNLOAD}#",
   "license": "LICENSE",
-  "readme": ""
+  "readme": "https://homebrewery.naturalcrit.com/share/HHYVCZ0FE8m-"
 }
